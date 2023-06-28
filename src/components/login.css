@@ -1,0 +1,19 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.tela-login{
+  color: greenyellow;
+}
+
+.input{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2px;
+  border-color: forestgreen;
+}

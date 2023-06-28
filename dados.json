@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "password1",
+      "role": "procurador"
+    },
+    {
+      "username": "user2",
+      "password": "password2",
+      "role": "assessor"
+    }
+  ],
+  "processes": [
+    {
+      "title": "Processo 1",
+      "description": "Descrição do Processo 1",
+      "createdBy": 1
+    },
+    {
+      "title": "Processo 2",
+      "description": "Descrição do Processo 2",
+      "createdBy": 2
+    }
+  ]
+}
