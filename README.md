@@ -1,3 +1,23 @@
+TestePGE
+
+Autoria
+
+Marcel Reinan Sa Dos Santos
+
+Arquitetura
+Tecnologias: Node v16.15.0 ReactJs MySQL DataBase
+
+Arquitetura Camadas Padrão MVC
+
+Usuário para teste: 
+João
+password1
+
+Usar node para rodar API local
+
+Ferramentas para testes: Debugger Google Chrome
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
